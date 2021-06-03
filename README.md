@@ -2,5 +2,5 @@
 
 ```
 twitterFollowRule :: Integer -> Integer -> Bool
-twitterFollowRule Following Followers = Following - Follower == 42
+twitterFollowRule Following Followers = Following - Followers == 42
 ```
